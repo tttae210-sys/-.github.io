@@ -48,11 +48,11 @@ AWS 리소스는 전 세계 여러 리전에 분산 배치됩니다.
 
 ## 2-5. 실습 기록 및 학습 회고
 
-<img width="2569" height="1430" alt="dwqwdqwd" src="https://github.com/user-attachments/assets/7b810853-76bb-43c0-b044-0fd72af79e96" />
+<img width="2569" height="1384" alt="dwqwdqwd" src="https://github.com/user-attachments/assets/912def67-907d-4325-82d2-8877516eee1e" />
 
-<img width="2562" height="1435" alt="LS" src="https://github.com/user-attachments/assets/95de2b18-dcd7-46cb-b8ef-5ba2bbab9f3b" />
+<img width="2562" height="1383" alt="LS" src="https://github.com/user-attachments/assets/c28d2d10-ede9-4d63-b922-f728f1f7a6ae" />
 
-<img width="2556" height="1430" alt="RWQQ" src="https://github.com/user-attachments/assets/73148509-7c43-4cc0-8757-2c6676a4ca50" />
+<img width="2556" height="1378" alt="RWQQ" src="https://github.com/user-attachments/assets/b14ef1cc-9e5a-414c-9465-37a422ce3809" />
 ##설치하려 했으나 로컬이 아닌 CLOUDSHELL을 활용할 예정
 
 
